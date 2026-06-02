@@ -53,6 +53,13 @@ projeto-espacial/
 ```
 ---
 
+## Demonstração do sistema
+
+### Inicialização e cadastro da missão
+
+Ao iniciar, o sistema exibe um relatório de demonstração dos sensores e solicita os dados da missão.
+
+
 ## Integrantes
 
 | Nome | RM |
