@@ -59,6 +59,9 @@ projeto-espacial/
 
 Ao iniciar, o sistema exibe um relatório de demonstração dos sensores e solicita os dados da missão.
 
+<p align="center">
+  <img src="demonstracao.png" alt="demonstracao" width="600"/>
+</p>
 
 ## Integrantes
 
